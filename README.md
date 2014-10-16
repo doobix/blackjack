@@ -1,2 +1,7 @@
 #blackjack
-This is a project I completed as a student at [Hack Reactor's](http://hackreactor.com). This project was worked on with a pair.
+A blackjack game created with a pair programming partner.
+
+We used CoffeeScript and Backbone.js.
+
+#Live Demo
+http://seewes.github.io/blackjack/
